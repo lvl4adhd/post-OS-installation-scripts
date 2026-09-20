@@ -1,0 +1,18 @@
+Discord:sudo pacman -S discord
+Steam:sudo pacman -S steam
+Dropbox:yay -S dropbox
+PIP:sudo pacman -S python-pip
+Todour:yay -S todour
+Google Chrome:yay -S google-chrome
+Nemo:sudo pacman -S nemo
+OBS Studio:sudo pacman -S obs-studio
+Libre Office:sudo pacman -S libreoffice-still
+Fish:sudo pacman -S fish
+Change GTK Themes (Feature):sudo pacman -S kde-gtk-config
+Neofetch:sudo pacman -S neofetch
+Spectacle:sudo pacman -S spectacle
+Ark:sudo pacman -S ark
+Noto Fonts (Emojis):sudo pacman -S noto-fonts-emoji
+Deepin Calculator:sudo pacman -S deepin-calculator
+Visual Studio Code:yay -S visual-studio-code-bin
+KAlarm:sudo pacman -S kalarm
