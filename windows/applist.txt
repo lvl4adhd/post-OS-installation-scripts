@@ -1,0 +1,19 @@
+Ubuntu:winget install 9PN20MSR04DW
+WSL:winget install 9P9TQF7MRM4R
+Hyper (Terminal Emulator):winget install Vercel.Hyper -i
+NeXus Dock:winget install WinStep.Nexus -i
+Epic Games Launcher:winget install EpicGames.EpicGamesLauncher -i
+OperaGX:winget install Opera.OperaGX -i
+Whatsapp:winget install 9NKSQGP7F2NH
+Spotify:winget install 9NCBCSZSJRSB
+HP Omen Gaming Hub:winget install 9NQDW009T0T5
+Windscribe:winget install windscribe.windscribe -i
+Visual Studio Code:winget install Microsoft.VisualStudioCode -i
+Steam:winget install valve.steam -i
+Roblox:winget install roblox.roblox -i
+7Zip:winget install 7zip.7zip -i
+TranslucentTB:winget install 9PF4KZ2VN4W9
+Crystal Disk Info:winget install XP8K4RGX25G3GM
+Calculator:winget install 9WZDNCRFHVN5
+FireFox:winget install 9NZVDKPMR9RD
+Start All Back:winget install StartIsBack.StartAllBack -i
